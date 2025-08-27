@@ -21,7 +21,6 @@
     "prettier": "^2.7.1"
   },
   "dependencies": {
-    "@netlify/blobs": "^10.0.8",
     "@popperjs/core": "^2.11.6",
     "bootstrap": "^5.2.2",
     "jquery": "^3.6.1",
